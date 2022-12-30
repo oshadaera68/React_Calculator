@@ -5,7 +5,7 @@ A Sample Calculator made using React Js.
 - React JS
 
 ## Screenshots
-![Screenshot_16](https://user-images.githubusercontent.com/90706926/210077887-ecd41b70-dc79-44a4-8e86-6832f19792a7.png)
+![Screenshot_18](https://user-images.githubusercontent.com/90706926/210078246-ba18da4a-2cbc-44dc-8ed0-be9f607477ed.png)
 
 ## Copyright By
 - Oshada Eranga (oshadaera68)
